@@ -1,0 +1,10 @@
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\bin\Debug\20200516_PizzaOtomasyonu.exe.config
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\bin\Debug\20200516_PizzaOtomasyonu.exe
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\bin\Debug\20200516_PizzaOtomasyonu.pdb
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\obj\Debug\20200516_PizzaOtomasyonu.csprojAssemblyReference.cache
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\obj\Debug\_20200516_PizzaOtomasyonu.Form1.resources
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\obj\Debug\_20200516_PizzaOtomasyonu.Properties.Resources.resources
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\obj\Debug\20200516_PizzaOtomasyonu.csproj.GenerateResource.cache
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\obj\Debug\20200516_PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\obj\Debug\20200516_PizzaOtomasyonu.exe
+E:\OOP\20200516_PizzaOtomasyonu\20200516_PizzaOtomasyonu\obj\Debug\20200516_PizzaOtomasyonu.pdb
